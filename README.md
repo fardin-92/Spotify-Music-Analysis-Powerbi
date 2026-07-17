@@ -1,4 +1,4 @@
-# Spotify-Music-Analysis-Powerbi
+# Spotify-Music-Analysis-PowerBI
 Interactive Spotify Music Analysis Dashboard built using Power BI with DAX, KPI Cards, Data Modeling, and Interactive Visualizations.
 # 🎵 Spotify Music Analysis Dashboard | Power BI
 
